@@ -6,10 +6,17 @@
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "*",
-    "ejs": "*",
-    "winston":"*",
+    "express": "3.4.8",
     "mongoose":"*",
-    "express-partials":"*"
+    "everyauth":"*",
+    "ejs": "*",
+    "should": "*",
+    "supertest":"*",
+    "sinon":"*",
+    "zombie":"*",
+    "validator":"*",
+    "nodemailer":"*",
+    "marked-prettyprint":"*",
+    "node-schedule":"*"
   }
 }
