@@ -1,0 +1,264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"LO",
+				"Logger"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/admin.js",
+			"settings":
+			{
+				"buffer_size": 9683,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/news.js",
+			"settings":
+			{
+				"buffer_size": 501,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/admin/newscategories.html",
+			"settings":
+			{
+				"buffer_size": 1101,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/ajaxj/projects/sf/ajaxjmv/ajaxjmv/trunk/mysite/mysite/urls.py",
+		"/home/ajaxj/projects/sf/ajaxjmv/ajaxjmv/trunk/mysite/mysite/settings.py",
+		"/home/ajaxj/projects/sf/ajaxjmv/ajaxjmv/trunk/mysite/mysite/views.py",
+		"/home/ajaxj/projects/sf/ajaxjmv/ajaxjmv/trunk/mysite/manage.py",
+		"/home/ajaxj/projects/sf/ajaxjmv/ajaxjmv/trunk/mysite/blog/urls.py",
+		"/home/ajaxj/projects/sf/ajaxjmv/ajaxjmv/trunk/projects/readme.txt",
+		"/home/ajaxj/projects/sf/ajaxjmv/ajaxjmv/trunk/projects/res.txt",
+		"/home/ajaxj/projects/sf/ajaxjmv/ajaxjmv/trunk/mysite/news/views.py",
+		"/home/ajaxj/projects/sf/ajaxjmv/ajaxjmv/trunk/mysite/blog/views.py",
+		"/home/ajaxj/projects/sf/myhuati/ub",
+		"/home/ajaxj/projects/gitent-scm/geek521js/.gitignore",
+		"/home/ajaxj/projects/gitent-scm/geek521js/projects/README",
+		"/home/ajaxj/projects/gitent-scm/geek521js/app/package.json",
+		"/home/ajaxj/projects/gitent-scm/geek521js/app/server.js",
+		"/home/ajaxj/projects/gitent-scm/geek521js/app/models/categorydao.js",
+		"/home/ajaxj/projects/gitent-scm/geek521js/app/config.js",
+		"/home/ajaxj/projects/gitent-scm/geek521js/app/controllers/home.js",
+		"/home/ajaxj/projects/gitent-scm/geek521js/app/models/userdao.js",
+		"/home/ajaxj/projects/gitent-scm/geek521js/app/views/index.html",
+		"/home/ajaxj/projects/capp/hello.c",
+		"/home/ajaxj/projects/capp/gtkhello.c"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/admin.js",
+					"settings":
+					{
+						"buffer_size": 9683,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								640,
+								640
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/news.js",
+					"settings":
+					{
+						"buffer_size": 501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								178,
+								178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/admin/newscategories.html",
+					"settings":
+					{
+						"buffer_size": 1101,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								825,
+								825
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true
+}

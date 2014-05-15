@@ -1,0 +1,36 @@
+<h2 class="sub-header">用户列表 | <a href="/admin/adduser">添加用户</a></h2>
+<div class="table-responsive">
+<table class="table table-striped">
+<thead>
+<tr>
+<th>#</th>
+<th>username</th>
+<th>nickname</th>
+<th>password</th>
+<th>email</th>
+<th>phone</th>
+<th>qq</th>
+<th>created</th>
+<th>操作</th>
+</tr>
+</thead>
+<tbody>
+<% userlist.forEach(function(user){%>
+<tr>
+<td><%- user.id %></td>
+<td><%- user.username %></td>
+<td><%- user.nickname %></td>
+<td><%- user.password %></td>
+<td><%- user.email %></td>
+<td><%- user.phone %></td>
+<td><%- user.qq %></td>
+<td><%- user.created %></td>
+<td>
+<a href="/admin/edituser?id=<%-user.id%>">EDIT</a>|
+<a href="/admin/deluser?id=<%-user.id%>">DEL</a>
+</td>
+</tr>
+<% }) %>
+</tbody>
+</table>
+</div>

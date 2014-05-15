@@ -1,0 +1,6 @@
+*.pyc
+*.log
+*.db
+.idea/*
+node_modules/*
+public/uploads/*

@@ -1,0 +1,26 @@
+<h2 class="sub-header">分类列表 | <a href="/admin/addcategory">添加分类</a></h2>
+<div class="table-responsive">
+<table class="table table-striped">
+<thead>
+<tr>
+<th>#</th>
+<th>Name</th>
+<th>En</th>
+<th>操作</th>
+</tr>
+</thead>
+<tbody>
+<% categorylist.forEach(function(category){%>
+<tr>
+<td><%- category.id %></td>
+<td><%- category.name %></td>
+<td><%- category.en %></td>
+<td>
+<a href="/admin/editcategory?id=<%-category.id%>">EDIT</a>|
+<a href="/admin/delcategory?id=<%-category.id%>">DEL</a>
+</td>
+</tr>
+<% }) %>
+</tbody>
+</table>
+</div>

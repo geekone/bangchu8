@@ -1,0 +1,1131 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cate",
+				"categorylist"
+			],
+			[
+				"Coo",
+				"CookEntity"
+			],
+			[
+				"Co",
+				"CookModel"
+			],
+			[
+				"Ar",
+				"ArticleEntity"
+			],
+			[
+				"Us",
+				"UserEntity"
+			],
+			[
+				"p",
+				"password"
+			],
+			[
+				"C",
+				"CategoryEntiry"
+			],
+			[
+				"Cate",
+				"CategoryModel"
+			],
+			[
+				"add",
+				"addcategory"
+			],
+			[
+				"mo",
+				"mongoose"
+			],
+			[
+				"a",
+				"articlelist"
+			],
+			[
+				"user",
+				"userlist"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"get",
+				"getDataByCateid"
+			],
+			[
+				"data",
+				"data_list"
+			],
+			[
+				"getA",
+				"getAccessToSqlite"
+			],
+			[
+				"run_",
+				"run_zhms"
+			],
+			[
+				"par",
+				"parseHtml"
+			],
+			[
+				"Pa",
+				"Parsexinshipuall"
+			],
+			[
+				"_til",
+				"_title1"
+			],
+			[
+				"_c",
+				"_cailiao"
+			],
+			[
+				"co",
+				"connection"
+			],
+			[
+				"conn",
+				"connection"
+			],
+			[
+				"sql",
+				"sqlite3"
+			],
+			[
+				"c",
+				"catename"
+			],
+			[
+				"in",
+				"insertDatabase"
+			],
+			[
+				"Htt",
+				"HttpResponseRedirect"
+			],
+			[
+				"H",
+				"HttpResponse"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"u",
+				"usermoneylist2"
+			],
+			[
+				"_te",
+				"_teamid"
+			],
+			[
+				"_team",
+				"_teamid"
+			],
+			[
+				"red",
+				"redirect"
+			],
+			[
+				"_t",
+				"_tag"
+			],
+			[
+				"mon",
+				"money"
+			],
+			[
+				"rn",
+				"render_template"
+			],
+			[
+				"U",
+				"Usermoney"
+			],
+			[
+				"m",
+				"moneylist"
+			],
+			[
+				"User",
+				"Usermoney"
+			],
+			[
+				"_count",
+				"_counts"
+			],
+			[
+				"_co",
+				"_counts"
+			],
+			[
+				"de",
+				"details"
+			],
+			[
+				"eve",
+				"eventinfolist"
+			],
+			[
+				"Team",
+				"TeamEventinfo"
+			],
+			[
+				"te",
+				"teamid"
+			],
+			[
+				"from",
+				"fromid"
+			],
+			[
+				"sp",
+				"sponsor"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"ee",
+				"eventinfo"
+			],
+			[
+				"_st",
+				"_status"
+			],
+			[
+				"ev",
+				"eventinfo"
+			],
+			[
+				"e",
+				"eventinfo"
+			],
+			[
+				"eventid",
+				"event_id"
+			],
+			[
+				"_l",
+				"_location"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"_p",
+				"_paytag"
+			],
+			[
+				"_m",
+				"_money"
+			],
+			[
+				"Cl",
+				"Column"
+			],
+			[
+				"event",
+				"eventid"
+			],
+			[
+				"fr",
+				"frontend"
+			],
+			[
+				"meth",
+				"method"
+			],
+			[
+				"fro",
+				"fromid"
+			],
+			[
+				"resul",
+				"results"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"_h",
+				"_hits"
+			],
+			[
+				"_s",
+				"_status"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"crea",
+				"created"
+			],
+			[
+				"logi",
+				"logined"
+			],
+			[
+				"login",
+				"logined"
+			],
+			[
+				"Tea",
+				"TeamEvent"
+			],
+			[
+				"hon",
+				"honorid"
+			],
+			[
+				"result",
+				"results"
+			],
+			[
+				"ho",
+				"honors"
+			],
+			[
+				"create",
+				"createtime"
+			],
+			[
+				"h",
+				"honors"
+			],
+			[
+				"tea",
+				"team_id"
+			],
+			[
+				"cre",
+				"created"
+			],
+			[
+				"_ti",
+				"_titile"
+			],
+			[
+				"tem",
+				"teams"
+			],
+			[
+				"_u",
+				"_userid"
+			],
+			[
+				"test",
+				"test_useraddteam"
+			],
+			[
+				"fi",
+				"filter_by"
+			],
+			[
+				"le",
+				"leader"
+			],
+			[
+				"is",
+				"isleader"
+			],
+			[
+				"cu",
+				"course_id"
+			],
+			[
+				"_ci",
+				"_city"
+			],
+			[
+				"_ply",
+				"_player4"
+			],
+			[
+				"ply",
+				"player4"
+			],
+			[
+				"_",
+				"_p3"
+			],
+			[
+				"pl",
+				"player1"
+			],
+			[
+				"log",
+				"logined"
+			],
+			[
+				"curs",
+				"courselist"
+			],
+			[
+				"se",
+				"session"
+			],
+			[
+				"cour",
+				"courselist"
+			],
+			[
+				"cou",
+				"courses"
+			],
+			[
+				"zhibo",
+				"zhibodetail"
+			],
+			[
+				"mpar",
+				"mpar_"
+			],
+			[
+				"Mat",
+				"MatchDetail"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"matc",
+				"match1"
+			],
+			[
+				"fe",
+				"filter_by"
+			],
+			[
+				"pa",
+				"par3"
+			],
+			[
+				"zg",
+				"zg_list"
+			],
+			[
+				"mp",
+				"mpar_"
+			],
+			[
+				"p4",
+				"p4m"
+			],
+			[
+				"mat",
+				"match_id"
+			],
+			[
+				"userde",
+				"userdetail"
+			],
+			[
+				"_in",
+				"_index"
+			],
+			[
+				"ma",
+				"match_id"
+			],
+			[
+				"_M",
+				"_matchid"
+			],
+			[
+				"com",
+				"commit"
+			],
+			[
+				"res",
+				"result"
+			],
+			[
+				"match",
+				"matchid"
+			],
+			[
+				"test_a",
+				"test_addmatchdetail"
+			],
+			[
+				"team",
+				"teamid"
+			],
+			[
+				"pr",
+				"primary_key"
+			],
+			[
+				"fo",
+				"frontend"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"Cou",
+				"Course"
+			],
+			[
+				"_player",
+				"_player1"
+			],
+			[
+				"player",
+				"player1"
+			],
+			[
+				"n",
+				"nickname"
+			],
+			[
+				"pass",
+				"passwd"
+			],
+			[
+				"_v",
+				"_verifycode"
+			],
+			[
+				"v",
+				"verifycode"
+			],
+			[
+				"_ty",
+				"_regtype"
+			],
+			[
+				"to",
+				"toAdd"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/controllers/articles.js",
+			"settings":
+			{
+				"buffer_size": 716,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "//管理模块\nvar mongoose = require(\"mongoose\");\n// var NewsCategory = mongoose.model(\"NewsCategory\");\n// var News = mongoose.model(\"Newses\");\n// var User = mongoose.model(\"User\");\nvar CategoryModel = mongoose.model(\"Category\");\nvar UserModel = mongoose.model(\"User\");\nvar ArticleModel = mongoose.model(\"Article\");\nvar CookModel = mongoose.model(\"Cook\");\n\nvar express = require('express');\n\n\n//首页\nexports.index = function(req,res,next){\n	res.render('admin/index',{layout:'admin/layout'});\n};\n\n//分类列表\nexports.categorylist = function(req,res,next){\n     CategoryModel.find({},function(err,result){\n        if (err){\n            next(err);\n        }else{\n            console.log(result.length);\n            res.render(\"admin/categorylist\",{layout:\"admin/layout\",categorylist:result});\n        }\n    });\n};\n\n\n//添加分类\nexports.addcategory = function(req,res,next){\n    res.render(\"admin/addcategory\",{layout:\"admin/layout\"});\n};\n\n//保存分类\nexports.savecategory = function(req,res,next){\n    var _name = req.body.name;\n    var _en = req.body.en;\n    var CategoryEntity = new CategoryModel({name:_name,en:_en});\n    CategoryEntity.save(function(err){\n        if(err){\n            next(err);\n        }else{\n            res.redirect('/admin/categorylist');\n        }\n    });\n};\n\n//删除分类通过 id=param 的方式\nexports.delcategory = function(req,res,next){\n    var _id = req.query.id;\n    CategoryModel.remove({_id:_id},function(err){\n        if(err){\n            next(err);\n        }else{\n            res.redirect(\"/admin/categorylist\");\n        }\n    });\n};\n\n//编辑\nexports.editcategory = function(req,res,next){\n    if(req.method == \"GET\"){\n        var _id = req.query.id;\n        CategoryModel.findOne({_id:_id},function(err,result){\n            if(err){\n                next(err);\n            }else{\n                res.render('admin/editcategory',{layout:'admin/layout',category:result});\n            }\n        });\n    }else if(req.method == 'POST'){\n        var _id = req.body.id;\n        var _name = req.body.name;\n        var _en = req.body.en;\n        var query = {_id:_id};\n        CategoryModel.update(query,{name:_name,en:_en},false,function(err){\n            if(err){\n                nexe(err);\n            }else{\n                res.redirect(\"/admin/categorylist\");\n            }\n        });\n       \n    }\n};\n\n\n\n\n//用户列表\nexports.userlist = function(req,res,next){\n    UserModel.find({},function(err,result){\n        if(err){\n            next(err);\n        }else{\n            res.render(\"admin/userlist\",{layout:\"admin/layout\",userlist:result});\n        }\n    });\n};\n\n\n//添加用户\nexports.adduser = function(req,res,next){\n    res.render(\"admin/adduser\",{layout:\"admin/layout\"});\n};\n\n//保存用户\nexports.saveuser = function(req,res,next){\n    var _username = req.body.username;\n    var _nickname = req.body.nickname;\n    var _password = req.body.password;\n    var _email = req.body.email;\n    var _phone = req.body.phone;\n    var _qq = req.body.qq;\n\n    var UserEntity = new UserModel({username:_username,nickname:_nickname,password:_password,email:_email,phone:_phone,qq:_qq});\n    UserEntity.save(function(err){\n        if(err){\n            next(err);\n        }else{\n            res.redirect(\"/admin/userlist\");\n        }\n    });\n};\n\n\nexports.deluser = function(req,res,next){\n    var _id = req.query.id;\n    UserModel.remove({_id:_id},function(err){\n        if(err){\n            next(err);\n        }else{\n            res.redirect(\"/admin/userlist\");\n        }\n    });\n};\n\n\nexports.edituser = function(req,res,next){\n    if (req.method == \"GET\"){\n        var \n\n    }else if(req.method == \"POST\"){\n\n    }\n\n    res.send(\"edituser\");\n};\n\n\n\n//文章列表\nexports.articlelist = function(req,res,next){\n    ArticleModel.find({},function(err,result){\n        if(err){\n            next(err);\n        }else{\n            res.render(\"admin/articlelist\",{layout:\"admin/layout\",articlelist:result});\n        }\n    });\n};\n\n//添加文章\nexports.addarticle = function(req,res,next){\n    res.render(\"admin/addarticle\",{layout:\"admin/layout\"});\n}\n\n//保存文章\nexports.savearticle = function(req,res,next){\n    var _title = req.body.title;\n    var _content = req.body.content;\n    var ArticleEntity = new ArticleModel({title:_title,content:_content});\n    ArticleEntity.save(function(err){\n        if(err){\n            next(err);\n        }else{\n            res.redirect(\"/admin/articlelist\");\n        }\n    });\n}\n\nexports.delarticle= function(req,res,next){\n    var _id = req.query.id;\n    ArticleModel.remove({_id:_id},function(err){\n        if(err){\n            next(err);\n        }else{\n            res.redirect(\"/admin/articlelist\");\n        }\n    });\n};\n\n\nexports.editarticle = function(req,res,next){\n    res.send(\"editarticle\");\n};\n\n\n\n//cook列表\nexports.cooklist = function(req,res,next){\n    CookModel.find({},function(err,result){\n        if(err){\n            next(err);\n        }else{\n            res.render(\"admin/cooklist\",{layout:\"admin/layout\",cooklist:result});\n        }\n    });\n};\n\n//添加cook\nexports.addcook = function(req,res,next){\n    res.render(\"admin/addcook\",{layout:\"admin/layout\"});\n}\n\nexports.savecook = function(req,res,next){\n    var _title = req.body.title;\n    var _img = req.body.img\n    var CookEntity = new CookModel({title:_title,img:_img});\n    CookEntity.save(function(err){\n        if(err){\n            next(err);\n        }else{\n             res.redirect(\"/admin/cooklist\");\n        }\n    });\n\n}\n\nexports.delcook = function(req,res,next){\n    var _id = req.query.id;\n    CookModel.remove({_id:_id},function(err){\n        if(err){\n            next(err);\n        }else{\n            res.redirect(\"/admin/cooklist\");\n        }\n    });\n}\n\n\n\n\n\n/**********  资读 **********/\n// exports.newscategories = function(req,res,next){\n//     NewsCategory.find({},function(err,result){\n//         if(err){\n//             next(err)\n//         }else{\n//             res.render('admin/newscategories',{layout:'admin/layout',categorylist:result});\n//         }\n//     });\n// };\n\n// //添加资讯分类\n// exports.addnewscate = function(req,res,next){\n//    _catename = req.body.catename;\n//    _cateid = req.body.cateid;\n//    var newscate  = new NewsCategory({cateid:_cateid,catename:_catename});\n//     newscate.save(function(err){\n//         if(err){\n//             next(err);\n//         }else{\n//             res.redirect('/admin/newscategories');\n//         }\n//     });\n// };\n\n// //删除资讯分类\n// exports.delnewscate = function(req,res,next){\n//         var _cid = req.query.cid;\n//         NewsCategory.remove({_id:_cid},function(err){\n//             if(err){\n//                 next(err);\n//             }else{\n//                 res.redirect('/admin/newscategories');\n//             }\n//         });\n// };\n\n// //更新资讯分类\n// exports.editnewscate = function(req,res,next){\n//     if(req.method == \"GET\"){\n//         var _cid = req.query.cid;\n//         NewsCategory.findOne({_id:_cid},function(err,result){\n//             if(err){\n//                 next(err);\n//             }else{\n//                 res.render('admin/editnewscate',{layout:'admin/layout',category:result});\n//             }\n//         });\n\n//     }else if(req.method == 'POST'){\n//         var _cid = req.body.cid;\n//         var _name = req.body.name;\n//         var query = { _id: _cid };\n//         NewsCategory.update(query, { name: _name }, false, function(err){\n//             if(err){\n//                 next(err);\n//             }else{\n//                 res.redirect('/admin/newscategories')\n//             }\n//         });\n//     }\n// }\n\n// //news list\n// exports.news = function(req,res,next){\n\n\n//     News.find({cateid:104},function(err,result){\n//         if(err){\n//             next(err);\n//         }else{\n//             res.render('admin/news',{layout:'admin/layout',newslist:result});\n//         }\n//     });\n\n// //    News.find({},function(err,result){\n// //        if(err){\n// //            next(err);\n// //        }else{\n// //            res.render('admin/news',{layout:'admin/layout',newslist:result});\n// //        }\n// //    });\n// };\n\n// //删除 news\n// exports.delnews = function(req,res,next){\n//     var id = req.query.id;\n//     News.remove({_id:id},function(err){\n//         if(err){\n//             next(err);\n//         }else{\n//             res.redirect(\"/admin/news\");\n//         }\n//     });\n// };\n\n\n// //add news\n// exports.addnews = function(req,res,next){\n//     if(req.method == \"GET\"){\n\n//         res.render('admin/addnews',{layout:'admin/layout'});\n//     }\n//     else if(req.method == \"POST\")\n//     {\n//         var _title = req.body.title;\n//         var _content = req.body.content;\n//         var _catename = req.body.catename;\n//         var _cateid = req.body.cateid;\n//         var data = {\n//             title:_title,\n//             content:_content,\n//             catename:_catename,\n//             cateid:_cateid\n//         };\n//         var news = new News(data);\n//         news.save(function(err){\n//             if(err){\n//                 next(err);\n//             }else{\n//                 res.redirect(\"/admin/news\");\n//             }\n//         });\n\n//     }\n\n// };\n\n// //编辑 news\n// exports.editnews = function(req,res,next){\n//     if( req.method == \"GET\"){\n//         var id = req.query.id;\n//         News.findOne({_id:id},function(err,result){\n//             if(err){\n//                 next(err);\n//             }else{\n//                 res.render(\"admin/editnews\",{layout:\"admin/layout\",news:result});\n//             }\n//         });\n//     }else if(req.method == \"POST\"){\n//         var id = req.body.id;\n//         var query = {_id:id};\n//         var _title = req.body.title;\n//         var _content = req.body.content;\n//         var _catename = req.body.catename;\n//         var _cateid = req.body.cateid;\n//         var data = {\n//             title:_title,\n//             content:_content,\n//             catename:_catename,\n//             cateid:_cateid\n//         };\n\n//         News.update(query,data,false,function(err){\n//             if(err){\n//                 next(err);\n//             }else{\n//                 res.redirect(\"/admin/news\");\n//             }\n//         });\n//     }\n// }\n\n// /**********  用户 **********/\n// //所有用户\n// exports.users = function(req,res,next){\n//     User.find({},function(err,result){\n//         if(err){\n//             next(err);\n//         }else{\n//             res.render('admin/users',{layout:'admin/layout',userlist:result});\n//         }\n//     });\n// };\n\n// //添加用户\n// exports.adduser = function(req,res,next){\n//     var _username = req.body.username;\n//     var _nickname = req.body.nickname;\n//     var _password = req.body.password;\n//     var _email = req.body.email;\n//     var _phone = req.body.phone;\n//     var _qq = req.body.qq;\n//     var data = {\n//         username:_username,\n//         nickname:_nickname,\n//         password:_password,\n//         email:_email,\n//         phone:_phone,\n//         qq:_qq\n//     };\n//     var newUser = new User(data);\n//     newUser.save(function(err){\n//         if(err){\n//             next(err);\n//         }else{\n//             res.redirect(\"/admin/users\");\n//         }\n//     });\n\n// };\n\n// //删除用户\n// exports.deluser = function(req,res,next){\n//     var _uid = req.query.uid;\n//     User.remove({_id:_uid},function(err){\n//         if(err){\n//             next(err);\n//         }else{\n//            res.redirect(\"/admin/users\");\n//         }\n//     });\n// };\n\n// //更新用户\n// exports.edituser = function(req,res,next){\n//     if(req.method == \"GET\"){\n//         var _uid = req.query.uid;\n//         User.findOne({_id:_uid},function(err,result){\n//             if(err){\n//                 next(err);\n//             }else{\n//                res.render(\"admin/edituser\",{layout:\"admin/layout\",user:result});\n//             }\n//         });\n//     }else if(req.method == \"POST\"){\n//         var _uid = req.body.uid;\n//         var query = {_id:_uid};\n//         var _username = req.body.username;\n//         var _nickname = req.body.nickname;\n//         var _password = req.body.password;\n//         var _email = req.body.email;\n//         var _phone = req.body.phone;\n//         var _qq = req.body.qq;\n//         var data = {\n//             username:_username,\n//             nickname:_nickname,\n//             password:_password,\n//             email:_email,\n//             phone:_phone,\n//             qq:_qq\n//         };\n//         User.update(query,data,false,function(err){\n//             if(err){\n//                 next(err);\n//             }else{\n//                res.redirect(\"/admin/users\");\n//             }\n//         });\n//     }\n// };\n\n\n",
+			"file": "app/controllers/admin.js",
+			"file_size": 13137,
+			"file_write_time": 130390764205633837,
+			"settings":
+			{
+				"buffer_size": 12526,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/admin/editcategory.html",
+			"settings":
+			{
+				"buffer_size": 791,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/D/手游网站.txt",
+			"settings":
+			{
+				"buffer_size": 56,
+				"line_ending": "Windows",
+				"name": "http://mm.9961.cn/indexs.php"
+			}
+		},
+		{
+			"file": "config/routes.js",
+			"settings":
+			{
+				"buffer_size": 3590,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/admin/categorylist.html",
+			"settings":
+			{
+				"buffer_size": 529,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/admin/addcategory.html",
+			"settings":
+			{
+				"buffer_size": 704,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/projects/github/ajaxj/bangchu8/app/controllers/admin.js",
+		"/D/projects/github/ajaxj/bangchu8/app/controllers/articles.js",
+		"/D/projects/projectlocker/myrobit/mitiyu/8bonews.py",
+		"/D/projects/projectlocker/myrobit/mitiyu/config.py",
+		"/D/projects/github/ajaxj/bangchu8/app.js",
+		"/D/projects/github/ajaxj/bangchu8/config/express.js",
+		"/D/projects/github/ajaxj/bangchu8/config/routes.js",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/cooklist.html",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/categorylist.html",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/layout.html",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/addcook.html_bk",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/addcategory.html",
+		"/D/projects/github/ajaxj/bangchu8/app/models/cook.js",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/addcook.html",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/userlist.html",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/articlelist.html",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/users.html",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/addarticle.html",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/newscategories.html",
+		"/D/projects/github/ajaxj/bangchu8/app/models/article.js",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/adduser.html",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/cooks.html",
+		"/D/projects/github/ajaxj/bangchu8/app/models/user.js",
+		"/D/projects/github/ajaxj/bangchu8/app/views/layout.html",
+		"/D/projects/github/ajaxj/bangchu8/app/models/category.js",
+		"/D/projects/github/ajaxj/bangchu8/app/controllers/cooks.js",
+		"/D/projects/github/ajaxj/bangchu8/app/controllers/home.js",
+		"/D/projects/github/ajaxj/bangchu8/app/controllers/admin_user.js",
+		"/D/projects/github/ajaxj/bangchu8/app/views/index.html",
+		"/D/projects/github/ajaxj/bangchu8/app/views/admin/index.html",
+		"/D/projects/github/ajaxj/bangchu8/projects/res.txt",
+		"/D/projects/github/ajaxj/bangchu8/projects/readme.txt",
+		"/D/projects/github/ajaxj/bangchu8/README.txt",
+		"/D/projects/github/ajaxj/bangchu8/package.json",
+		"/D/projects/github/ajaxj/bangchu8/winapp/README.txt",
+		"/D/projects/github/ajaxj/bangchu8/winapp/xinshipu.py",
+		"/D/projects/github/ajaxj/bangchu8/winapp/launcher.py",
+		"/D/projects/github/ajaxj/bangchu8/winapp/zhms.py",
+		"/D/projects/github/ajaxj/bangchu8/winapp/parsexinshipuall.py",
+		"/D/projects/github/ajaxj/bangchu8/app/models/news.js",
+		"/D/projects/github/ajaxj/bangchu8/winapp/parsexinshipu.py",
+		"/D/projects/github/ajaxj/bangchu8/.gitignore",
+		"/D/projects/sf/myhuati/mitiyu/mitiyu/settings.py",
+		"/D/projects/sf/myhuati/mitiyu/mitiyu/views.py",
+		"/D/projects/sf/myhuati/mitiyu/mitiyu/urls.py",
+		"/D/projects/sf/myhuati/ub.sublime-project",
+		"/D/projects/sf/myhuati/mitiyu/mitiyu/templates/news/index.html",
+		"/D/projects/sf/myhuati/mitiyu/forms/form.py",
+		"/D/projects/sf/myhuati/mitiyu/news/models.py",
+		"/D/projects/sf/myhuati/mitiyu/forms/__init__.py",
+		"/D/projects/sf/myhuati/mitiyu/news/views.py",
+		"/D/projects/sf/myhuati/mitiyu/mitiyu/templates/news/category.html",
+		"/D/projects/sf/myhuati/mitiyu/news/urls.py",
+		"/D/projects/sf/myhuati/mitiyu/mitiyu/templates/index.html",
+		"/D/projects/sf/myhuati/mitiyu/mitiyu/templates/header.html",
+		"/D/projects/sf/myhuati/mitiyu/mitiyu/templates/footer.html",
+		"/D/projects/sf/myhuati/mitiyu/manage.py",
+		"/D/projects/sf/myhuati/mitiyu/mitiyu/wsgi.py",
+		"/D/projects/sf/myhuati/mitiyu/news/tests.py",
+		"/D/projects/sf/myhuati/projects/readme.txt",
+		"/D/projects/sf/myhuati/projects/cmd.txt",
+		"/D/projects/sf/myhuati/projects/res.txt",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/addcourse.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/views/frontend.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/test_addevent.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/config.cfg",
+		"/D/projects/oschina/pyapp/golfweb/manage.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/views/admin.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/upevent.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/addevent.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/eventlist.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/test_addhonor.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/models/team.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/extensions.py",
+		"/D/projects/oschina/pyapp/golfweb/projects/mysql.sql",
+		"/D/projects/oschina/pyapp/golfweb/golf/models/user.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/__init__.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/addteam.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/honorlist.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/uphonor.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/addhonor.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/layout.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/models/match.py",
+		"/D/projects/oschina/pyapp/projects/command.txt",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/test_addteam.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/teamlist.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/upteam.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/test_upuserinfo.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/test_addmatch.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/upmatch.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/reguser.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/test_useraddteam.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/userlist.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/upuser.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/adduser.html",
+		"/D/projects/oschina/pyapp/golfweb/估算接口.txt",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/addmatch.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/matchlist.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/models/course.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/upcourse.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/courselist.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/login.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/index.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/login.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/test_addmatchdetail.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/test_recoverpasswd.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/test_userfenxi.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/test_addcard.html",
+		"/D/projects/oschina/pyapp/golfweb/projects/README",
+		"/D/projects/oschina/pyapp/projects/api.txt",
+		"/D/projects/oschina/pyapp/.gitignore",
+		"/D/projects/github/ajaxj/pyweb/demo/t1/test_thread.py",
+		"/E/macao/duchang/index.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/common/__init__.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/common/utils.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/models/__init__.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/teameventlist.html",
+		"/C/data/bin/posts.json",
+		"/D/projects/同步.txt",
+		"/E/迅雷下载/LocoySpider_V7.7_Build20130410.Free/Extensions/LocoySpider/FileTemplate/默认html模版1.html",
+		"/E/迅雷下载/LocoySpider_V7.7_Build20130410.Free/Extensions/LocoySpider/FileTemplate/默认html模版.html",
+		"/D/projects/oschina/pyapp/golfweb/golf/models/coursedetail.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/models/huodong.py",
+		"/D/projects/oschina/pyapp/golfweb/golf/templates/admin/index.html",
+		"/D/projects/oschina/pyapp/app/manage.py",
+		"/D/projects/oschina/pyapp/app/fetch/fetchdouguo.py",
+		"/D/projects/oschina/pyapp/app/fetch/launch.py",
+		"/D/projects/oschina/pyapp/app/food/models/item.py"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"eventinfo",
+			"created",
+			"time",
+			"addevent",
+			"byid",
+			"球队",
+			"event",
+			"活动",
+			"球队",
+			"addteam",
+			"honorall",
+			"getteambyid",
+			"upteam",
+			"redirec",
+			"time",
+			"upteam",
+			"up",
+			"upuserinfo",
+			"addteam",
+			"新增球队",
+			"upuserinfo",
+			"test_useradd",
+			"useradd",
+			"addteam",
+			"upuserinfo",
+			"useradd",
+			"_in",
+			"useradd",
+			"addteam",
+			"adduser",
+			"myteams",
+			"teams",
+			"teamleaders",
+			"filter",
+			"where",
+			"where in",
+			"filter_by",
+			"team",
+			"session",
+			"order_by",
+			"red",
+			"redi",
+			"redirec",
+			"request",
+			"teamall",
+			"matchall",
+			"teamall",
+			"order",
+			"teamsearch",
+			"usermatchdetail",
+			"redirect",
+			"zhibo",
+			"userfenxi",
+			"order_by",
+			"addmatch",
+			"addmatchde",
+			"addmatch",
+			"userfenxi",
+			"userde",
+			"addmatchde",
+			"usermatchdetail",
+			"历史",
+			"userfenxi",
+			"usermatchall",
+			"course",
+			"addmatchdetail",
+			"addcard",
+			"team",
+			"<a href=\"http://we.sportscn.com/macaubc/duchang/index.html\"><STRONG>1</STRONG></a><A href=\"http://we.sportscn.com/macaubc/duchang/index2.html\">2</A><A href=\"http://we.sportscn.com/macaubc/duchang/index3.html\">3</A><A href=\"http://we.sportscn.com/macaubc/duchang/index4.html\">4</A><A href=\"http://we.sportscn.com/macaubc/duchang/index5.html\">5</A><A href=\"http://we.sportscn.com/macaubc/duchang/index6.html\">6</A>",
+			"水原FC",
+			"大洋冠",
+			"/html",
+			")\n",
+			"defaults: {\n        _id: null,\n        name: \"\",\n        grapes: \"\",\n        country: \"USA\",\n        region: \"California\",\n        year: \"\",\n        description: \"\",\n        picture: null\n",
+			"todo-stats",
+			"todo-clear",
+			"showTooltip",
+			"fetch",
+			"<!-- 因为flask，所以这里main需要加.static这种路径 -->",
+			"m",
+			"book",
+			"title",
+			"Book",
+			"\""
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"cat",
+			"name",
+			"Cat"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/controllers/articles.js",
+					"settings":
+					{
+						"buffer_size": 716,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/controllers/admin.js",
+					"settings":
+					{
+						"buffer_size": 12526,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3532,
+								3532
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1800.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/admin/editcategory.html",
+					"settings":
+					{
+						"buffer_size": 791,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								215,
+								215
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/D/手游网站.txt",
+					"settings":
+					{
+						"buffer_size": 56,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"auto_name": "http://mm.9961.cn/indexs.php",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "config/routes.js",
+					"settings":
+					{
+						"buffer_size": 3590,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1296,
+								1296
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/views/admin/categorylist.html",
+					"settings":
+					{
+						"buffer_size": 529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/admin/addcategory.html",
+					"settings":
+					{
+						"buffer_size": 704,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								704,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 100.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"golfweb/golf/views/admin.py"
+			],
+			[
+				"o",
+				"static/json2.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/GNUstep/msys/1.0/home/Administrator/demo1_project.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 229.0,
+	"status_bar_visible": true
+}

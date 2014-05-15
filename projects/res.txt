@@ -1,0 +1,24 @@
+资源:
+
+Mongodb客户端管理:
+https://github.com/iwind/rockmongo
+http://rockmongo.com/downloads
+本地安装 D:\projects\github\ajaxj\rockmongo-on-windows  admin admin
+
+
+百度的分类
+http://www.hao123.com/caipu
+
+http://www.hao123.com/menu
+
+moogoose文档
+http://www.csser.com/board/4f3f516e38a5ebc978000513
+
+中华美食网
+http://www.zhms.cn/
+
+
+
+bootstrap
+	http://getbootstrap.com/
+	

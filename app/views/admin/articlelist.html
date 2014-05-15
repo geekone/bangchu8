@@ -1,0 +1,28 @@
+<h2 class="sub-header">文章列表 | <a href="/admin/addarticle">添加文章</a></h2>
+<div class="table-responsive">
+<table class="table table-striped">
+<thead>
+<tr>
+<th>#</th>
+<th>title</th>
+<th>content</th>
+<th>created</th>
+<th>操作</th>
+</tr>
+</thead>
+<tbody>
+<% articlelist.forEach(function(article){%>
+<tr>
+<td><%- article.id %></td>
+<td><%- article.title %></td>
+<td><%- article.content %></td>
+<td><%- article.created %></td>
+<td>
+<a href="/admin/editarticle?id=<%-article.id%>">EDIT</a>|
+<a href="/admin/delarticle?id=<%-article.id%>">DEL</a>
+</td>
+</tr>
+<% }) %>
+</tbody>
+</table>
+</div>

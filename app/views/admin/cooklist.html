@@ -1,0 +1,26 @@
+<h2 class="sub-header">COOK列表 <a href="/admin/addcook">添加cook</a></h2>
+<div class="table-responsive">
+<table class="table table-striped">
+<thead>
+<tr>
+<th>#</th>
+<th>Title</th>
+<th>Img</th>
+<th>操作</th>
+</tr>
+</thead>
+<tbody>
+<% cooklist.forEach(function(cook){ %> 
+<tr>
+<td><%- cook.id %></td>
+<td><%- cook.title %></td>
+<td><%- cook.img %></td>
+<td>
+<a href="/admin/editcook?id=<%-cook.id%>">EDIT</a>|
+<a href="/admin/delcook?id=<%-cook.id%>">DEL</a>
+</td>
+</tr>
+<% }) %>
+</tbody>
+</table>
+</div>
